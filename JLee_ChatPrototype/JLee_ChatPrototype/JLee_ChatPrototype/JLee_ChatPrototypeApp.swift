@@ -11,6 +11,7 @@ import SwiftUI
 struct JLee_ChatPrototypeApp: App {
     var body: some Scene {
         WindowGroup {
+            // Test
             ContentView()
         }
     }
